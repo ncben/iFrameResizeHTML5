@@ -2,7 +2,7 @@
 	
 	"use strict";
 	
-	var iframeId = 'sweepsiframe'; //id of the DJA sweepstakes iframe 
+	var iframeId = 'iframe'; //id of the iframe 
 	var origin = '*'; //allowed origin
 	var iframe = document.getElementById(iframeId);
 	
